@@ -19,6 +19,7 @@ body {
 
 .logo {
     margin-bottom: 20px;
+    color: #fff;
 }
 
 .display {
@@ -50,3 +51,4 @@ body {
     background-color: #333;
     color: #fff;
 }
+
